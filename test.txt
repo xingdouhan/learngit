@@ -1,0 +1,2 @@
+//定义饼图
+举例：[{"name":"Firefox","y":45},{"name":"IE","y":26.8},{"name":"Chrome","y":12.8},{"name":"Safari","y":8.5},{"name":"Others","y":0.7}]
